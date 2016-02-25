@@ -1,0 +1,114 @@
+.intro, #zen-supporting .explanation, #zen-supporting .participation {
+  color: white;
+  margin: 75px;
+  width: 60%; }
+
+#zen-supporting .explanation, aside {
+  padding: 2%; }
+
+.intro .preamble, #zen-supporting .explanation, #zen-supporting .participation, #zen-supporting .requirements, #zen-supporting .benefits, footer, .extra1, aside {
+  opacity: 0.9;
+  position: absolute; }
+
+a {
+  color: black;
+  text-decoration: none;
+  border-bottom: 1px solid gray; }
+  a:hover {
+    border-bottom-color: #EA2E49; }
+
+#css-zen-garden {
+  background: #DAEDE2;
+  font-family: sans-serif;
+  box-sizing: border-box; }
+
+.page-wrapper {
+  background: #77C4D3;
+  height: 200vh;
+  margin: 75px; }
+  .page-wrapper h3 {
+    font-size: 2em; }
+
+.intro header h1 {
+  background: #EA2E49;
+  width: 300px;
+  padding: 15px;
+  text-align: center;
+  text-transform: uppercase; }
+.intro header h2 {
+  font-size: 7em; }
+.intro .summary {
+  text-transform: uppercase; }
+  .intro .summary a {
+    color: white; }
+    .intro .summary a:hover {
+      border-bottom-color: #EA2E49; }
+.intro .preamble {
+  color: black;
+  background: white;
+  width: 50vw;
+  height: 30vh;
+  left: 0;
+  top: 60%;
+  padding: 10px 20px 10px 150px; }
+
+#zen-supporting .explanation {
+  left: 5%;
+  bottom: -45%;
+  width: 29vw;
+  height: 40vh; }
+#zen-supporting .participation {
+  right: 7%;
+  bottom: -45%;
+  width: 29vw;
+  height: 40vh;
+  background-color: #a21025;
+  z-index: 1;
+  padding: 20px 50px; }
+  #zen-supporting .participation a {
+    color: white; }
+    #zen-supporting .participation a:hover {
+      border-bottom-color: #EA2E49; }
+#zen-supporting .requirements {
+  background-color: white;
+  right: 12%;
+  bottom: -84.7%;
+  width: 45vw;
+  height: auto;
+  padding: 20px 50px;
+  z-index: 1; }
+#zen-supporting .benefits {
+  background-color: white;
+  left: 14.3%;
+  bottom: -78%;
+  width: 15vw;
+  height: auto;
+  padding: 20px 50px;
+  z-index: 1; }
+
+footer {
+  background: #E3E58B;
+  bottom: -91%;
+  left: 14%;
+  padding: 30px 50px;
+  width: 450px; }
+
+.extra1 {
+  background: #3A4453;
+  width: 20vw;
+  height: 215vh;
+  top: 0;
+  right: 0; }
+
+aside {
+  background: #E3E58B;
+  width: 25vw;
+  height: 70vh;
+  top: 15%;
+  right: 5.5%;
+  z-index: 1;
+  line-height: 2; }
+  aside ul {
+    list-style: none; }
+
+/*# sourceMappingURL=output.css.map */
