@@ -62,7 +62,7 @@ a {
   bottom: -45%;
   width: 29vw;
   height: 40vh;
-  background-color: #a21025;
+  background-color: #d01530;
   z-index: 1;
   padding: 20px 50px; }
   #zen-supporting .participation a {
@@ -87,7 +87,7 @@ a {
   z-index: 1; }
 
 footer {
-  background: #E3E58B;
+  background: #d9dc61;
   bottom: -91%;
   left: 14%;
   padding: 30px 50px;
@@ -101,7 +101,7 @@ footer {
   right: 0; }
 
 aside {
-  background: #E3E58B;
+  background: #d9dc61;
   width: 25vw;
   height: 70vh;
   top: 15%;
